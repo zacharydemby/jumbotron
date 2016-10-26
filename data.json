@@ -1,0 +1,690 @@
+{
+  "data": [
+    {
+      "id": 191748104440757,
+      "created_at": "2016-10-05T19:20:33.878Z",
+      "modified_at": "2016-10-07T14:40:43.004Z",
+      "name": "Test:",
+      "notes": "Client Context: Please include a link to any materials that have been developed for this opportunity (i.e. client/industry research, proposal materials, etc.)\n\nOpportunity: Please give detail about the client opportunity or project description - i.e. What parts of the business is this focused on? What is the $ size of the opportunity, if applicable? What is the main goal for the studio of this opportunity? What are the goals of the client in regards to this opportunity? \n\nStatus: How are things progressing? Where do you need extra support, if applicable? What is the estimated completion time required to secure this deal, finish this project, or move onto the next phase?\n\nCritical Path/Next Steps: Are there any road blocks or critical path tasks? If so, what are they? What are the upcoming actions that are being taken/need to take place? Who is driving them? Are there any upcoming client interactions planned for or scheduled? \n\nPlease keep this description status updated on a weekly basis, and assign any lower level tasks directly to owners within this section. Your updates to the description will be used to drive status.",
+      "completed": false,
+      "assignee_status": "inbox",
+      "completed_at": null,
+      "due_on": null,
+      "due_at": null,
+      "projects": [
+        {
+          "id": 191748104440756,
+          "name": "Studio Opps & Origination"
+        }
+      ],
+      "tags": ["key-priority"],
+      "workspace": {
+        "id": 8551586079436,
+        "name": "accenture.com"
+      },
+      "num_hearts": 0,
+      "parent": null,
+      "memberships": [
+        {
+          "project": {
+            "id": 191748104440756,
+            "name": "Studio Opps & Origination"
+          },
+          "section": {
+            "id": 191748104440757,
+            "name": "Test:"
+          },
+          "column": null
+        }
+      ],
+      "subtasks": [],
+      "hearted": false,
+      "hearts": [],
+      "custom_fields": [],
+      "assignee": {
+        "id": 58103593643118,
+        "name": "Zach"
+      },
+      "followers": [
+        {
+          "id": 57032758713938,
+          "name": "Andrew Koo"
+        },
+        {
+          "id": 58103593643118,
+          "name": "Zach"
+        }
+      ]
+    },
+    {
+      "id": 191905997369112,
+      "created_at": "2016-10-05T19:42:14.204Z",
+      "modified_at": "2016-10-25T22:36:55.551Z",
+      "name": "Executive Meeting in Growth Studio",
+      "notes": "",
+      "completed": true,
+      "assignee_status": "inbox",
+      "completed_at": "2016-10-25T22:36:27.726Z",
+      "due_on": "2016-10-07",
+      "due_at": null,
+      "projects": [
+        {
+          "id": 191748104440756,
+          "name": "Studio Opps & Origination"
+        }
+      ],
+      "tags": [],
+      "workspace": {
+        "id": 8551586079436,
+        "name": "accenture.com"
+      },
+      "num_hearts": 0,
+      "parent": null,
+      "subtasks": [],
+      "hearted": false,
+      "hearts": [],
+      "custom_fields": [],
+      "memberships": [
+        {
+          "project": {
+            "id": 191748104440756,
+            "name": "Studio Opps & Origination"
+          },
+          "section": {
+            "id": 191748104440757,
+            "name": "Test:"
+          },
+          "column": null
+        }
+      ],
+      "assignee": {
+        "id": 58103593643118,
+        "name": "Zach"
+      },
+      "followers": [
+        {
+          "id": 58103593643118,
+          "name": "Zach"
+        }
+      ]
+    },
+    {
+      "id": 191905997369129,
+      "created_at": "2016-10-05T20:15:53.632Z",
+      "modified_at": "2016-10-25T22:34:05.639Z",
+      "name": "Connect client for MSA discussions",
+      "notes": "",
+      "completed": true,
+      "assignee_status": "inbox",
+      "completed_at": "2016-10-25T22:34:06.907Z",
+      "due_on": "2016-10-07",
+      "due_at": null,
+      "projects": [
+        {
+          "id": 191748104440756,
+          "name": "Studio Opps & Origination"
+        }
+      ],
+      "tags": [],
+      "workspace": {
+        "id": 8551586079436,
+        "name": "accenture.com"
+      },
+      "num_hearts": 0,
+      "parent": null,
+      "subtasks": [],
+      "hearted": false,
+      "hearts": [],
+      "custom_fields": [],
+      "memberships": [
+        {
+          "project": {
+            "id": 191748104440756,
+            "name": "Studio Opps & Origination"
+          },
+          "section": {
+            "id": 191748104440757,
+            "name": "Test:"
+          },
+          "column": null
+        }
+      ],
+      "assignee": {
+        "id": 58103593643118,
+        "name": "Zach"
+      },
+      "followers": [
+        {
+          "id": 58103593643118,
+          "name": "Zach"
+        }
+      ]
+    },
+    {
+      "id": 191905997369133,
+      "created_at": "2016-10-05T20:16:23.980Z",
+      "modified_at": "2016-10-25T22:31:09.028Z",
+      "name": "Send additional decks / materials to client procurement",
+      "notes": "",
+      "completed": true,
+      "assignee_status": "inbox",
+      "completed_at": "2016-10-25T22:30:50.184Z",
+      "due_on": "2016-10-06",
+      "due_at": null,
+      "projects": [
+        {
+          "id": 191748104440756,
+          "name": "Studio Opps & Origination"
+        }
+      ],
+      "tags": [],
+      "workspace": {
+        "id": 8551586079436,
+        "name": "accenture.com"
+      },
+      "num_hearts": 0,
+      "parent": null,
+      "subtasks": [],
+      "hearted": false,
+      "hearts": [],
+      "custom_fields": [],
+      "memberships": [
+        {
+          "project": {
+            "id": 191748104440756,
+            "name": "Studio Opps & Origination"
+          },
+          "section": {
+            "id": 191748104440757,
+            "name": "Test:"
+          },
+          "column": null
+        }
+      ],
+      "assignee": {
+        "id": 58103593643118,
+        "name": "Zach"
+      },
+      "followers": [
+        {
+          "id": 58103593643118,
+          "name": "Zach"
+        }
+      ]
+    },
+    {
+      "id": 191905997369137,
+      "created_at": "2016-10-05T20:16:40.456Z",
+      "modified_at": "2016-10-25T22:30:38.292Z",
+      "name": "Conduct initial follow-ups on opportunity",
+      "notes": "",
+      "completed": true,
+      "assignee_status": "inbox",
+      "completed_at": "2016-10-25T22:30:10.580Z",
+      "due_on": "2016-10-12",
+      "due_at": null,
+      "projects": [
+        {
+          "id": 191748104440756,
+          "name": "Studio Opps & Origination"
+        }
+      ],
+      "tags": [
+        {
+          "id": 164906336849525,
+          "name": "milestone"
+        }
+      ],
+      "workspace": {
+        "id": 8551586079436,
+        "name": "accenture.com"
+      },
+      "num_hearts": 0,
+      "parent": null,
+      "subtasks": [],
+      "hearted": false,
+      "hearts": [],
+      "custom_fields": [],
+      "memberships": [
+        {
+          "project": {
+            "id": 191748104440756,
+            "name": "Studio Opps & Origination"
+          },
+          "section": {
+            "id": 191748104440757,
+            "name": "Test:"
+          },
+          "column": null
+        }
+      ],
+      "assignee": {
+        "id": 58103593643118,
+        "name": "Zach"
+      },
+      "followers": [
+        {
+          "id": 58103593643118,
+          "name": "Zach"
+        }
+      ]
+    },
+    {
+      "id": 191905997369144,
+      "created_at": "2016-10-05T20:17:26.880Z",
+      "modified_at": "2016-10-25T22:29:59.545Z",
+      "name": "Draft SOW",
+      "notes": "",
+      "completed": true,
+      "assignee_status": "inbox",
+      "completed_at": "2016-10-25T22:29:32.727Z",
+      "due_on": "2016-10-11",
+      "due_at": null,
+      "projects": [
+        {
+          "id": 191748104440756,
+          "name": "Studio Opps & Origination"
+        }
+      ],
+      "tags": [],
+      "workspace": {
+        "id": 8551586079436,
+        "name": "accenture.com"
+      },
+      "num_hearts": 0,
+      "parent": null,
+      "subtasks": [],
+      "hearted": false,
+      "hearts": [],
+      "custom_fields": [],
+      "memberships": [
+        {
+          "project": {
+            "id": 191748104440756,
+            "name": "Studio Opps & Origination"
+          },
+          "section": {
+            "id": 191748104440757,
+            "name": "Test:"
+          },
+          "column": null
+        }
+      ],
+      "assignee": {
+        "id": 58103593643118,
+        "name": "Zach"
+      },
+      "followers": [
+        {
+          "id": 58103593643118,
+          "name": "Zach"
+        }
+      ]
+    },
+    {
+      "id": 191905997369150,
+      "created_at": "2016-10-05T20:21:59.844Z",
+      "modified_at": "2016-10-19T14:14:47.931Z",
+      "name": "Draft CRM Strategy SOW",
+      "notes": "",
+      "completed": true,
+      "assignee_status": "today",
+      "completed_at": "2016-10-19T14:14:48.411Z",
+      "due_on": "2016-10-11",
+      "due_at": null,
+      "projects": [
+        {
+          "id": 191748104440756,
+          "name": "Studio Opps & Origination"
+        }
+      ],
+      "tags": [],
+      "workspace": {
+        "id": 8551586079436,
+        "name": "accenture.com"
+      },
+      "num_hearts": 0,
+      "parent": null,
+      "subtasks": [],
+      "hearted": false,
+      "hearts": [],
+      "custom_fields": [],
+      "memberships": [
+        {
+          "project": {
+            "id": 191748104440756,
+            "name": "Studio Opps & Origination"
+          },
+          "section": {
+            "id": 191748104440757,
+            "name": "Test:"
+          },
+          "column": null
+        }
+      ],
+      "assignee": {
+        "id": 57032758713938,
+        "name": "Andrew Koo"
+      },
+      "followers": [
+        {
+          "id": 58103593643118,
+          "name": "Zach"
+        },
+        {
+          "id": 57032758713938,
+          "name": "Andrew Koo"
+        }
+      ]
+    },
+    {
+      "id": 191905997369156,
+      "created_at": "2016-10-05T20:22:58.344Z",
+      "modified_at": "2016-10-25T22:29:14.864Z",
+      "name": "Draft MSA",
+      "notes": "",
+      "completed": false,
+      "assignee_status": "inbox",
+      "completed_at": null,
+      "due_on": "2016-11-04",
+      "due_at": null,
+      "projects": [
+        {
+          "id": 191748104440756,
+          "name": "Studio Opps & Origination"
+        }
+      ],
+      "tags": [],
+      "workspace": {
+        "id": 8551586079436,
+        "name": "accenture.com"
+      },
+      "num_hearts": 0,
+      "parent": null,
+      "subtasks": [],
+      "hearted": false,
+      "hearts": [],
+      "custom_fields": [],
+      "memberships": [
+        {
+          "project": {
+            "id": 191748104440756,
+            "name": "Studio Opps & Origination"
+          },
+          "section": {
+            "id": 191748104440757,
+            "name": "Test:"
+          },
+          "column": null
+        }
+      ],
+      "assignee": {
+        "id": 58103593643118,
+        "name": "Zach"
+      },
+      "followers": [
+        {
+          "id": 58103593643118,
+          "name": "Zach"
+        }
+      ]
+    },
+    {
+      "id": 191748104440759,
+      "created_at": "2016-10-05T19:20:44.012Z",
+      "modified_at": "2016-10-07T14:40:58.752Z",
+      "name": "Test 2:",
+      "notes": "",
+      "completed": false,
+      "assignee_status": "upcoming",
+      "completed_at": null,
+      "due_on": null,
+      "due_at": null,
+      "projects": [
+        {
+          "id": 191748104440756,
+          "name": "Studio Opps & Origination"
+        }
+      ],
+      "tags": [],
+      "workspace": {
+        "id": 8551586079436,
+        "name": "accenture.com"
+      },
+      "num_hearts": 0,
+      "parent": null,
+      "memberships": [
+        {
+          "project": {
+            "id": 191748104440756,
+            "name": "Studio Opps & Origination"
+          },
+          "section": {
+            "id": 191748104440759,
+            "name": "Test 2:"
+          },
+          "column": null
+        }
+      ],
+      "subtasks": [],
+      "hearted": false,
+      "hearts": [],
+      "custom_fields": [],
+      "assignee": {
+        "id": 57032758713938,
+        "name": "Andrew Koo"
+      },
+      "followers": [
+        {
+          "id": 57032758713938,
+          "name": "Andrew Koo"
+        }
+      ]
+    },
+    {
+      "id": 191748104440809,
+      "created_at": "2016-10-05T19:42:39.916Z",
+      "modified_at": "2016-10-07T13:25:56.923Z",
+      "name": "Follow up with Client on Next Steps for RFP",
+      "notes": "",
+      "completed": false,
+      "assignee_status": "upcoming",
+      "completed_at": null,
+      "due_on": null,
+      "due_at": null,
+      "projects": [
+        {
+          "id": 191748104440756,
+          "name": "Studio Opps & Origination"
+        }
+      ],
+      "tags": [],
+      "workspace": {
+        "id": 8551586079436,
+        "name": "accenture.com"
+      },
+      "num_hearts": 0,
+      "parent": null,
+      "subtasks": [],
+      "hearted": false,
+      "hearts": [],
+      "custom_fields": [],
+      "memberships": [
+        {
+          "project": {
+            "id": 191748104440756,
+            "name": "Studio Opps & Origination"
+          },
+          "section": {
+            "id": 191748104440759,
+            "name": "Test 2:"
+          },
+          "column": null
+        }
+      ],
+      "assignee": {
+        "id": 57032758713938,
+        "name": "Andrew Koo"
+      },
+      "followers": [
+        {
+          "id": 57032758713938,
+          "name": "Andrew Koo"
+        }
+      ]
+    },
+    {
+      "id": 198955619488153,
+      "created_at": "2016-10-19T14:22:00.012Z",
+      "modified_at": "2016-10-26T01:25:01.726Z",
+      "name": "Test 3:",
+      "notes": "Innovation approach and verbiage for excel submission finalized; awaiting any additional support requests from team",
+      "assignee": null,
+      "completed": false,
+      "assignee_status": "upcoming",
+      "completed_at": null,
+      "due_on": null,
+      "due_at": null,
+      "projects": [
+        {
+          "id": 191748104440756,
+          "name": "Studio Opps & Origination"
+        }
+      ],
+      "tags": [],
+      "workspace": {
+        "id": 8551586079436,
+        "name": "accenture.com"
+      },
+      "num_hearts": 0,
+      "parent": null,
+      "memberships": [
+        {
+          "project": {
+            "id": 191748104440756,
+            "name": "Studio Opps & Origination"
+          },
+          "section": {
+            "id": 198955619488153,
+            "name": "Test 3:"
+          },
+          "column": null
+        }
+      ],
+      "subtasks": [],
+      "hearted": false,
+      "hearts": [],
+      "custom_fields": [],
+      "followers": [
+        {
+          "id": 57032758713938,
+          "name": "Andrew Koo"
+        }
+      ]
+    },
+    {
+      "id": 198955619488143,
+      "created_at": "2016-10-19T14:19:00.845Z",
+      "modified_at": "2016-10-25T23:39:00.688Z",
+      "name": "Re-draft innovation addendum",
+      "notes": "",
+      "completed": true,
+      "assignee_status": "inbox",
+      "completed_at": "2016-10-25T23:39:02.553Z",
+      "due_on": null,
+      "due_at": null,
+      "projects": [
+        {
+          "id": 191748104440756,
+          "name": "Studio Opps & Origination"
+        }
+      ],
+      "tags": [],
+      "workspace": {
+        "id": 8551586079436,
+        "name": "accenture.com"
+      },
+      "num_hearts": 0,
+      "parent": null,
+      "subtasks": [],
+      "hearted": false,
+      "hearts": [],
+      "custom_fields": [],
+      "memberships": [
+        {
+          "project": {
+            "id": 191748104440756,
+            "name": "Studio Opps & Origination"
+          },
+          "section": {
+            "id": 198955619488153,
+            "name": "Test 3:"
+          },
+          "column": null
+        }
+      ],
+      "assignee": {
+        "id": 57032758713938,
+        "name": "Andrew Koo"
+      },
+      "followers": [
+        {
+          "id": 57032758713938,
+          "name": "Andrew Koo"
+        }
+      ]
+    },
+    {
+      "id": 198955619488145,
+      "created_at": "2016-10-19T14:19:08.058Z",
+      "modified_at": "2016-10-25T23:38:54.560Z",
+      "name": "Staffing estimate for cross-digital assessment",
+      "notes": "",
+      "completed": true,
+      "assignee_status": "inbox",
+      "completed_at": "2016-10-25T23:38:57.054Z",
+      "due_on": null,
+      "due_at": null,
+      "projects": [
+        {
+          "id": 191748104440756,
+          "name": "Studio Opps & Origination"
+        }
+      ],
+      "tags": [],
+      "workspace": {
+        "id": 8551586079436,
+        "name": "accenture.com"
+      },
+      "num_hearts": 0,
+      "parent": null,
+      "subtasks": [],
+      "hearted": false,
+      "hearts": [],
+      "custom_fields": [],
+      "memberships": [
+        {
+          "project": {
+            "id": 191748104440756,
+            "name": "Studio Opps & Origination"
+          },
+          "section": {
+            "id": 198955619488153,
+            "name": "Test 3:"
+          },
+          "column": null
+        }
+      ],
+      "assignee": {
+        "id": 57032758713938,
+        "name": "Andrew Koo"
+      },
+      "followers": [
+        {
+          "id": 57032758713938,
+          "name": "Andrew Koo"
+        }
+      ]
+    }
+  ]
+}
